@@ -2,7 +2,7 @@
 
 ![Logged out view of the app](./public/redux1.png)
 
-![Logged in view of the app](./public/redux1.png)
+![Logged in view of the app](./public/redux2.png)
 
 ## Welcome! 👋
 This is a Redux project. It uses the redux store to manage states that are needed in the app. Having multiple states, `redux-toolkit` was used to manage the state, read its value and dispatch the actions needed in the components that are subscribed to the store through `useSelector`.
